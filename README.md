@@ -200,7 +200,7 @@ Organizations can use employee satisfaction and engagement data to identify area
 
 ## Dashboard Preview
 
-![Employee Attrition & HR Analytics Dashboard](Dashboard.png)
+![dashboard](Dashboard.png)
 
 ---
 
